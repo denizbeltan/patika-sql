@@ -7,4 +7,5 @@ You can download example database from this [link](https://www.postgresqltutoria
 ### Homeworks:
 
 hw1: https://app.patika.dev/courses/sql/Odev1
+hw2: https://app.patika.dev/courses/sql/Odev2
 
