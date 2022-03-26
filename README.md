@@ -12,3 +12,5 @@ hw2: https://app.patika.dev/courses/sql/Odev2
 
 hw3: https://app.patika.dev/courses/sql/Odev3
 
+hw4: https://app.patika.dev/courses/sql/Odev4
+
